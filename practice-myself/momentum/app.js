@@ -12,9 +12,7 @@ myName = "legolas";
 
 console.log("your new name is " + myName);*/
 
-
-
-
+/* 배열
 const mon = "mon";
 const tue = "tue";
 const wed = "wed";
@@ -25,4 +23,5 @@ const sun = "sun";
 
 const daysOfWeek = ["mon", "tue", "wed", "thu", "fri", "sat"];
 
-console.log(daysOfWeek[3]);
+console.log(daysOfWeek[3]);*/
+
